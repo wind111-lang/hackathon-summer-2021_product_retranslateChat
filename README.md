@@ -2,7 +2,7 @@
 
 ## 開発者の担当箇所
 - [wind111-lang](https://github.com/wind111-lang):Websocket,Translate API
-- [Minmin](https://github.com/Minmin):Websocket,JSONの値受け渡し,Webページ作成
+- [Minmin](https://github.com/Minmin067):Websocket,JSONの値受け渡し,Webページ作成
 - [Bayashin](https://github.com/Bayashin):構造体実装,Websocket,Database
 - [SuperTikuwa](https://github.com/SuperTikuwa):チームメンター
 
