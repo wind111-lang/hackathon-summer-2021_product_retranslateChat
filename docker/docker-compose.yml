@@ -1,0 +1,11 @@
+version: '3'
+services:
+  mysql:
+    build: ./mysql/    #Dockerfileからビルドすることを示す
+    volumes:
+      - ./mysql/db:/docker-entrypoint-initdb.d  #初期データ
+    environment:
+      - MYSQL_ROOT_PASSWORD=admin   #環境変数
+    ports:
+        - 127.0.0.1:33063:3306
+
