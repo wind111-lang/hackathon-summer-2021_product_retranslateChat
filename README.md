@@ -1,10 +1,12 @@
 # hack-teamC-2021-summer -再翻訳チャットツール-
 
-## 開発者の担当箇所
-- [wind111-lang](https://github.com/wind111-lang):Websocket,Translate API
-- [Minmin](https://github.com/Minmin067):Websocket,JSONの値受け渡し,Webページ作成
-- [Bayashin](https://github.com/Bayashin):構造体実装,Websocket,Database
-- [SuperTikuwa](https://github.com/SuperTikuwa):チームメンター
+システム工学研究会2021夏のハッカソンで制作
+
+## メンバー
+- [wind111-lang](https://github.com/wind111-lang):Websocket,Translate API(Go)
+- [Minmin](https://github.com/Minmin067):Websocket,JSONの値受け渡し,Webページ作成(Vue)
+- [Bayashin](https://github.com/Bayashin):構造体実装,Websocket,Database(Go)
+- [SuperTikuwa](https://github.com/SuperTikuwa):チームメンター(全体サポート)
 
 ## セットアップ
 **1. Dockerのセットアップ**
